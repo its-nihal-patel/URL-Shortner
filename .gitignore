@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+
+# Flask
+instance/
+webapp.egg-info/
+
+# Logs
+*.log
